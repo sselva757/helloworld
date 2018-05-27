@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+Thanks to universe for I become a expert in devops
     <name>
 
 # TECHNOLOGY COLOPHON
